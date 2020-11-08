@@ -134,7 +134,7 @@ const Work = `
         </div>
         <div class="project-links">
           <span class="project-code">
-            <a target="_blank"  href="https://google.com/">
+            <a target="_blank"  href="https://github.com/halfdrownedbiscuit/portfolio">
               Code
             </a>
           </span>
